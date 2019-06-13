@@ -1,3 +1,0 @@
-python==2.7.*
-numpy==1.14.*
-matplotlib==1.14.*
