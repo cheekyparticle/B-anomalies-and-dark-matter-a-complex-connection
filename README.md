@@ -18,7 +18,7 @@ The files "DD_Response.dat" hold the responses from Xenon1T experiment (2018), a
    4) Total: total response
 
 
-============================================================================================================
+================================================================================================
 Neutrino Floor data can be found in directory "Neutrino_floors". 
 "Floor_Op1.dat" is the neutrino floor for a Xenon target for Operator 1 NREFT interactions. The format is 
 
@@ -28,5 +28,5 @@ Neutrino Floor data can be found in directory "Neutrino_floors".
 
 [DM_MASS] [A as difined in Eq.(4.3)]
 
-============================================================================================================
+================================================================================================
 Exclusion limits can be found in directory "Direct_Detection_Exclusions". The experiment that the file refers to is in the name. Column 1 in all in the mass, Column 2 is either the C1 coefficient in the NREFT or the anapole (A) response depending on the file. 
